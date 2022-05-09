@@ -12,7 +12,7 @@
 		<div class="row">
 			<div class="col text-center">
 				<a href="https://twitter.com/queziacode" title="Anderson">
-					<img src="img/hackergaucho.jpg" width="200">
+					<img src="img/hackergaucho.jpg" width="200" height="200">
 				</a>
 			</div>
 		</div>

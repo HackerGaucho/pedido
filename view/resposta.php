@@ -11,18 +11,18 @@
 	<div class="container">
 		<div class="row text-center">
 			<div class="col">
-				<img src="img/coracao.png" alt="Coração">
+				<img src="img/coracao.png" alt="Coração" width="120" height="120">
 			</div>
 		</div>
 		<div class="row">
 			<div class="col text-end">
 				<a href="https://twitter.com/hackergaucho" title="Anderson">
-					<img src="img/hackergaucho.jpg" width="200">
+					<img src="img/hackergaucho.jpg" width="200" height="200">
 				</a>
 			</div>
 			<div class="col text-start">
 				<a href="https://twitter.com/queziacode" title="Quézia">
-					<img src="img/queziacode.jpg" width="200">
+					<img src="img/queziacode.jpg" width="200" height="200">
 				</a>
 			</div>
 		</div>
