@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col text-center">
-				<a href="https://twitter.com/queziacode" title="Anderson">
+				<a href="https://twitter.com/hackergaucho" title="Anderson">
 					<img src="img/hackergaucho.jpg" width="200" height="200">
 				</a>
 			</div>
