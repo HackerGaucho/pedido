@@ -35,7 +35,7 @@
 			<div class="row">
 				<div class="col text-center">
 					<h1>Sucesso</h1>
-					<p>Anderson e Quézia namoraram desde <?php print @$desde; ?> até Mon, 09 Jul 2022 18:59
+					<p>Anderson e Quézia namoraram desde <?php print @$desde; ?> até Sat, 09 Jul 2022 18:59
 						-0300</p>
 				</div>
 			</div>
